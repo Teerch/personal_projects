@@ -1,2 +1,2 @@
 # personal_projects
-my projects
+uploaded python projects
